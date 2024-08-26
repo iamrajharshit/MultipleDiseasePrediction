@@ -5,7 +5,7 @@ This repository contains the codebase for "Multiple Disease Prediction Streamlit
 
 ## Demo video
 Demonstrating Diabetes prediction:
-![diabeties](https://github.com/iamrajharshit/MultipleDiseasePrediction/blob/main/assets/demo%20diabetes.gifS)
+![diabeties](https://github.com/iamrajharshit/MultipleDiseasePrediction/blob/main/assets/demo%20diabetes.gif)
 
 ## Dependencies
 Please install following dependencies
