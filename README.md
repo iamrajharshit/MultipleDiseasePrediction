@@ -18,11 +18,11 @@ pip install requriements.txt
 
 ## Run the Streeamlit App 
 
-'''
+```
 streamlit run app.py
-'''
+```
 
 ## Demo video
 
-![]()
+![diabeties](https://github.com/iamrajharshit/MultipleDiseasePrediction/blob/main/assets/demo%20diabetes.gif)
 
